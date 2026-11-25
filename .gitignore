@@ -3,3 +3,5 @@
 
 # Zwischenspeicher-Ordner
 cache/
+# Protokolle
+*.log
