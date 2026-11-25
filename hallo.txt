@@ -1,2 +1,3 @@
 Hallo, das ist mein erstes Git -Projekt.
 Diese Zeile habe ich auf meinem Computer geändert.
+Diese Zeile habe ich auf GitHub geändert.
