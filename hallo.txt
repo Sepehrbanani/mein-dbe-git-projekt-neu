@@ -1,2 +1,2 @@
 Hallo, das ist mein erstes Git -Projekt.
-Das ist meine erste Änderung auf GitHub!
+Diese Zeile habe ich auf GitHub geändert.
